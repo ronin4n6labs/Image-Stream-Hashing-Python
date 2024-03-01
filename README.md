@@ -26,7 +26,7 @@ Suppose we have the following image files in the c:\tmp directory:
 - `sample.png`
 
 Running the script with the following command:
->> python img_streamh_hashing_batch_script.py
+python img_streamh_hashing_batch_script.py
 
 Should produce the following output:
 
